@@ -1,2 +1,4 @@
 # intro_data_science
-my projects for com sci 188 - data science fundamentals
+Project 1 for com sci 188 - data science fundamentals, taken winter 2020/2021 at UCLA
+
+Simple linear regression modeling of airbnb prices in New york
